@@ -8,6 +8,7 @@ public class DataTypes
         boolean flag = true;
         i = 10;
         f+=i;
+        flag = !flag;
         i++;
         System.out.println(i);
         System.out.println(f);
