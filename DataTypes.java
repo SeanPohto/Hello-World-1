@@ -10,5 +10,7 @@ public class DataTypes
         f+=i;
         i++;
         System.out.println(i);
+        System.out.println(f);
+        System.out.print(flag);
     }
 }
